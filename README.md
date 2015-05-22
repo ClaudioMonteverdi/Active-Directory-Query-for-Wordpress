@@ -1,6 +1,10 @@
 # Active-Directory-Query-for-Wordpress
 
-Basic function here is to query AD users for infromation (which you can define by using AD specific identifiers) and return a sorted list to a wordpress template that you can assign to a page.  In our case a corporate directory that is not easily managed on our wordpress intranet.  However this has obvious other uses.
+Original Development Provided by:
+AgaMatrix, http://www.agamatrix.com
+The Atom Group http://www.theatomgroup.com/
+
+Basic function here is to query AD users for information (which you can define by using AD specific identifiers) and return a sorted list to a wordpress template that you can assign to a page.  In our case a corporate directory that is not easily managed on our wordpress intranet.  However this has obvious other uses.
 
 generate.php 
 Connects to LDAP
